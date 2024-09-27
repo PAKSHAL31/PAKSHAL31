@@ -22,6 +22,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
@@ -34,7 +35,22 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## 🏆 Achievements & Certifications
 
+- **Best UI Design** at HACKUTA 2023 (Hackathon)  
+  ![Hackathon](https://img.shields.io/badge/Hackathon-FFD700.svg?style=for-the-badge&logo=hack&logoColor=black)
+  
+- **Best Concept Game** (Holesync) at TEKNACK 2019-2020  
+  ![Award](https://img.shields.io/badge/Award-Best%20Concept%20Game-FF4500.svg?style=for-the-badge&logo=trophy&logoColor=white)
+
+- **Scrum Master Certification**  
+  ![Scrum](https://img.shields.io/badge/Scrum_Master-Certified-00BFFF.svg?style=for-the-badge&logo=scrum&logoColor=white)
+
+- **Meta Front-End Developer Certification**  
+  ![Meta](https://img.shields.io/badge/Meta-Front_End_Developer-0099FF.svg?style=for-the-badge&logo=meta&logoColor=white)
+
+## 📫 Let's Connect!
+Eager to explore new opportunities and collaborate on innovative projects. Feel free to check out my repositories or reach out to discuss technology, open-source projects, or potential partnerships.
 <p align="left">
 	<a href="https://www.linkedin.com/in/pakshal-ranawat/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
